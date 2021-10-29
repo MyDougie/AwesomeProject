@@ -82,12 +82,13 @@ const App: () => Node = () => {
           </Section>
           <Section title="Learn More">
             Read the docs to discover what to do next:
+            test
           </Section>
           <LearnMoreLinks />
         </View>
       </ScrollView>
     </SafeAreaView>
-  );Ó
+  );
 };
 
 const styles = StyleSheet.create({
